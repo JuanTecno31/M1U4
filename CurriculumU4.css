@@ -1,0 +1,29 @@
+h1{ 
+    /* Edición del título */
+    box-sizing: border-box;
+    text-decoration: underline brown;
+    color: purple;
+    font-family: 'Arial';
+}
+#cuadro{
+    /* Edición de fondo */
+    background-color: rgba(255, 192, 203, 0.589);
+    margin: 5%;
+    padding-left: 10px;
+    box-sizing: border-box;
+    margin-left: 0px;
+    border: 2px solid rgb(0, 0, 0);
+}
+.datos{
+    /* Edición de subtítulos */
+    text-decoration: underline red;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    color: blue;
+}
+.form{
+    /* Edición de palabra clave */
+    font-family: Arial blue;
+    font-weight: bold;
+    font-size: 0.5cm;
+}
